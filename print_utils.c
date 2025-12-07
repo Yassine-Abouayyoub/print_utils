@@ -89,4 +89,4 @@ void printr(const char *text, int line_length) {
     }
 }
 
-#endif // PRINT_UTILS_C
+#endif
